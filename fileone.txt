@@ -1,0 +1,6 @@
+the first commit to the file. This line will be committed to the repository.
+This is for the next commit.
+
+To persist the changes directly without sending the file to the staging area.
+
+Making some changes to view the difference.
